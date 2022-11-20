@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=construktor
+comment1.params=
+comment1.target=void\ info()
+comment2.params=nama1\ umur
+comment2.target=construktor(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ infoNama()
+comment4.params=a\ b
+comment4.target=construktor(int,\ int)
+numComments=5

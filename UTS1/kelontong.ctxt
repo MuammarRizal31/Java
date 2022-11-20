@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=kelontong
+comment1.params=
+comment1.target=void\ barang()
+comment2.params=barang\ jumlah
+comment2.target=int\ total(int,\ int)
+comment3.params=
+comment3.target=void\ bonus()
+numComments=4

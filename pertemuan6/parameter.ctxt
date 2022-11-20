@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=parameter
+comment1.params=a\ b
+comment1.target=int\ luas(int,\ int)
+comment2.params=a\ b
+comment2.target=double\ hitung(int,\ double)
+comment3.params=d
+comment3.target=double\ luas(int)
+comment4.params=rizal
+comment4.target=void\ main(java.lang.String[])
+numComments=5

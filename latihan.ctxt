@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=latihan
+comment1.params=
+comment1.target=void\ data_kar()
+comment2.params=g\ b\ l
+comment2.target=void\ gaji_bersih(int,\ int,\ int)
+comment3.params=rizal
+comment3.target=void\ Main(java.lang.String[])
+comment4.params=tugas\ uts\ uas
+comment4.target=int\ raport(int,\ int,\ int)
+numComments=5

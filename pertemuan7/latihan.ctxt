@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=latihan
+comment1.params=nama\ npm\ jurusan\ kelas
+comment1.target=latihan(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ dataMhs()
+comment3.params=
+comment3.target=java.lang.String\ panggil()
+comment4.params=sms1\ sms2\ sms3\ sms4
+comment4.target=double\ ipk(double,\ double,\ double,\ double)
+comment5.params=rizal
+comment5.target=void\ Main(java.lang.String[])
+numComments=6

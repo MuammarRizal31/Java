@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mahasiswa
+comment1.params=
+comment1.target=void\ Reguler()
+comment1.text=aktif/cuti/non\ aktif
+comment2.params=
+comment2.target=void\ Sore()
+comment3.params=
+comment3.target=void\ Ekstensi()
+comment4.params=
+comment4.target=void\ Terbuka()
+numComments=5
